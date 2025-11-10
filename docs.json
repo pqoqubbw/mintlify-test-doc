@@ -9,8 +9,9 @@
   },
   "favicon": "/favicon.svg",
   "thumbnails": {
+    "appearance": "dark",
     "fonts": {
-      "appearance": "dark"
+      "family": "Montserrat"
     }
   },
   "navigation": {
