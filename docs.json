@@ -10,7 +10,7 @@
   "favicon": "/favicon.svg",
   "thumbnails": {
     "fonts": {
-      "appearance": "dark",
+      "appearance": "dark"
     }
   },
   "navigation": {
