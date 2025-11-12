@@ -119,6 +119,10 @@
   "integrations": {
     "clarity": {
       "projectId": "u3xzo8gron"
+    },
+    "hotjar": {
+      "hjid": "6573857",
+      "hjsv": "6573857"
     }
   }
 }
