@@ -46,15 +46,6 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API Reference 2",
-            "openapi": "/OpenAPI.yml"
-          }
-        ]
       }
     ],
 
